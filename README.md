@@ -159,12 +159,12 @@ Contribuir para o desenvolvimento de softwares de alta qualidade, promovendo mel
 
 ---
 
-# 📚 Currently Learning
+# 📚 Continuous Improvement
 
-🌸 Automação de testes  
-🌸 Estratégias avançadas de QA  
-🌸 Qualidade em pipelines CI/CD  
-🌸 Testes de performance e APIs  
+🌸 Aprimorando estratégias avançadas de QA  
+🌸 Qualidade integrada em pipelines CI/CD  
+🌸 Testes de performance e observabilidade  
+🌸 Boas práticas em automação e arquitetura de testes  
 
 ---
 
@@ -178,22 +178,16 @@ Contribuir para o desenvolvimento de softwares de alta qualidade, promovendo mel
 
 ---
 
-# 📈 GitHub Stats
-
-<p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=SEUUSUARIO&show_icons=true&theme=tokyonight&border_radius=10" />
-  
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEUUSUARIO&layout=compact&theme=tokyonight&border_radius=10" />
-</p>
-
----
-
 # 🌐 Connect With Me
 
 <p align="left">
   <a href="https://linkedin.com/in/SEULINKEDIN" target="_blank">
-    💼 LinkedIn
+    💼 [LinkedIn](https://github.com/jennitlf)
   </a>
+</p>
+
+<p align="left">
+  📧 thalitabrasil872@gmail.com
 </p>
 
 ---
