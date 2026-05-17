@@ -1,54 +1,78 @@
-<h1 align="center">Hi 👋, I'm Jennifer Lima</h1>
-<h3 align="center">QA Analyst | Software Quality Assurance</h3>
+<h1 align="center">✨ Jennifer Lima ✨</h1>
+
+<h3 align="center">
+QA Analyst • Software Quality Assurance • Tech Enthusiast 💜
+</h3>
 
 <p align="center">
-Passionate about software quality, continuous improvement and delivering reliable applications 🚀
+Passionate about software quality, automation and continuous improvement 🚀
+</p>
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?color=CB6CE6&center=true&vCenter=true&lines=QA+Analyst;Software+Quality+Assurance;Test+Automation+Learner;BDD+%7C+API+Testing+%7C+Agile" />
 </p>
 
 ---
 
-## 👩‍💻 About Me
+# 💫 About Me
 
-Analista de Testes apaixonada por qualidade de software, melhoria contínua e entrega de aplicações confiáveis.
+```yaml
+name: Jennifer Lima
+role: QA Analyst
+located_in: Brazil
+focus: Software Quality Assurance
+```
 
-Aprendo rápido, sou detalhista, responsável e comprometida com processos de qualidade, buscando sempre garantir a melhor experiência possível para o usuário e apoiar times no desenvolvimento de soluções mais seguras, estáveis e eficientes.
+💜 Analista de Testes apaixonada por tecnologia, qualidade de software e melhoria contínua.
 
----
+✨ Sou detalhista, responsável, dedicada e tenho facilidade em aprender rapidamente novos processos, ferramentas e tecnologias.
 
-## 🧪 Quality Assurance Skills
-
-### 📋 Test Planning & Execution
-- Elaboração de planos de teste
-- Criação de casos de teste baseados em requisitos e BDD
-- Execução de testes funcionais e regressivos
-- Testes exploratórios
-- Validação de regras de negócio
-- Captura e documentação de evidências
-
-### 🐞 Bug Management
-- Reporte e gerenciamento de bugs
-- Acompanhamento do ciclo de vida de defeitos
-- Priorização e validação de correções
-- Sugestões de melhoria contínua
-
-### 🔌 API Testing
-- Testes de API com Postman
-- Validação de endpoints, payloads e responses
-- Testes de autenticação e fluxos de integração
-
-### ⚡ Agile & Quality Process
-- Conhecimento em metodologias ágeis
-- Participação em cerimônias Scrum
-- Colaboração entre QA, desenvolvimento e produto
-- Integração da qualidade em todo o ciclo de desenvolvimento
-- Criação e compartilhamento de status report dos testes
+🚀 Busco contribuir com produtos mais confiáveis, seguros e eficientes, promovendo qualidade em todas as etapas do desenvolvimento.
 
 ---
 
-## ⚙️ Technologies & Tools
+# 🧪 Quality Assurance Skills
 
-### 🧪 Test Automation
-<p>
+## 📋 Test Planning & Execution
+✔️ Elaboração de planos de teste  
+✔️ Criação de casos de teste com base em requisitos e BDD  
+✔️ Execução de testes funcionais e regressivos  
+✔️ Testes exploratórios  
+✔️ Validação de regras de negócio  
+✔️ Captura e documentação de evidências  
+
+---
+
+## 🐞 Bug Management
+✔️ Reporte e gerenciamento de bugs  
+✔️ Acompanhamento do ciclo de vida de defeitos  
+✔️ Priorização e validação de correções  
+✔️ Sugestões de melhoria contínua  
+
+---
+
+## 🔌 API Testing
+✔️ Testes de API com Postman  
+✔️ Validação de endpoints e payloads  
+✔️ Fluxos de autenticação e integração  
+✔️ Análise de responses  
+
+---
+
+## ⚡ Agile & Quality Process
+✔️ Scrum & metodologias ágeis  
+✔️ Participação em cerimônias ágeis  
+✔️ Status report de testes  
+✔️ Integração da qualidade no ciclo de desenvolvimento  
+✔️ Colaboração entre QA, produto e desenvolvimento  
+
+---
+
+# ⚙️ Technologies & Tools
+
+## 🧪 Test Automation
+
+<p align="left">
   <img src="https://skillicons.dev/icons?i=cypress" />
 </p>
 
@@ -56,90 +80,122 @@ Aprendo rápido, sou detalhista, responsável e comprometida com processos de qu
 - Robot Framework  
 - Cucumber  
 
-### 🔌 API & Performance Testing
-<p>
+---
+
+## 🔌 API & Performance Testing
+
+<p align="left">
   <img src="https://skillicons.dev/icons?i=postman" />
 </p>
 
 - JMeter
 
-### 📊 Agile & Management
-<p>
+---
+
+## 📊 Agile & Management
+
+<p align="left">
   <img src="https://skillicons.dev/icons?i=jira" />
 </p>
 
 - Miro
 
-### 🚀 CI/CD
-<p>
+---
+
+## 🚀 CI/CD
+
+<p align="left">
   <img src="https://skillicons.dev/icons?i=githubactions" />
 </p>
 
-### 📱 Mobile Testing
+---
+
+## 📱 Mobile Testing
+
 - Appium
 
-### 🎨 Design & Collaboration
-<p>
+---
+
+## 🎨 Design & Collaboration
+
+<p align="left">
   <img src="https://skillicons.dev/icons?i=figma" />
 </p>
 
-### 🗄️ Database
-<p>
+---
+
+## 🗄️ Database
+
+<p align="left">
   <img src="https://skillicons.dev/icons?i=mysql" />
 </p>
 
 - SQL  
-- DBeaver
+- DBeaver  
 
-### 💻 Languages
-<p>
+---
+
+## 💻 Languages
+
+<p align="left">
   <img src="https://skillicons.dev/icons?i=js,ts,java,python" />
 </p>
 
-### 🛠 Development Knowledge
-<p>
+---
+
+## 🛠 Development Knowledge
+
+<p align="left">
   <img src="https://skillicons.dev/icons?i=react,nestjs" />
 </p>
 
 ---
 
-## 🎯 Career Objective
+# 🎯 Career Objective
 
-Atuar na área de Quality Assurance contribuindo para a entrega de softwares de alta qualidade, promovendo melhoria contínua, prevenção de falhas e uma experiência confiável para o usuário.
-
----
-
-## 📚 Currently Learning
-
-- Automação de testes
-- Estratégias avançadas de QA
-- Integração contínua e qualidade em pipelines CI/CD
-- Melhores práticas em testes de performance e APIs
+Contribuir para o desenvolvimento de softwares de alta qualidade, promovendo melhoria contínua, prevenção de falhas e experiências confiáveis para os usuários.
 
 ---
 
-## 📌 Featured Projects
+# 📚 Currently Learning
 
-- Test cases documentation
-- Bug reports & evidence management
-- API validation projects
-- Automation testing studies
-- React & NestJS applications
+🌸 Automação de testes  
+🌸 Estratégias avançadas de QA  
+🌸 Qualidade em pipelines CI/CD  
+🌸 Testes de performance e APIs  
 
 ---
 
-## 📈 GitHub Stats
+# 📌 Featured Projects
+
+💜 Test cases documentation  
+💜 Bug reports & evidence management  
+💜 API validation projects  
+💜 Automation testing studies  
+💜 React & NestJS applications  
+
+---
+
+# 📈 GitHub Stats
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=SEUUSUARIO&show_icons=true&theme=tokyonight" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=SEUUSUARIO&show_icons=true&theme=tokyonight&border_radius=10" />
   
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEUUSUARIO&layout=compact&theme=tokyonight" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEUUSUARIO&layout=compact&theme=tokyonight&border_radius=10" />
 </p>
 
 ---
 
-## 📫 Contact
+# 🌐 Connect With Me
 
-<p>
-  <a href="https://linkedin.com/in/SEULINKEDIN" target="_blank">LinkedIn</a>
+<p align="left">
+  <a href="https://linkedin.com/in/SEULINKEDIN" target="_blank">
+    💼 LinkedIn
+  </a>
+</p>
+
+---
+
+<p align="center">
+  ✨ “Quality is never an accident; it is always the result of intelligent effort.” ✨
 </p>
