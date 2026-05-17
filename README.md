@@ -94,11 +94,8 @@ focus: Software Quality Assurance
 
 ## 📊 Agile & Management
 
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=jira" />
-</p>
-
 - Miro
+- Jira
 
 ---
 
@@ -107,6 +104,11 @@ focus: Software Quality Assurance
 <p align="left">
   <img src="https://skillicons.dev/icons?i=githubactions" />
 </p>
+
+- GitHub Actions
+- Jenkins
+- GitLab CI/CD
+- Docker
 
 ---
 
